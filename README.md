@@ -38,3 +38,4 @@ By default, `npm run build` will generate a Node app that you can run with `node
 - [@sveltejs/adapter-netlify](https://github.com/sveltejs/kit/tree/master/packages/adapter-netlify)
 - ...more soon
 # sveltekit-tailwind
+# tailwindcopy
