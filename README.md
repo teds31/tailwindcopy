@@ -39,3 +39,4 @@ By default, `npm run build` will generate a Node app that you can run with `node
 - ...more soon
 # sveltekit-tailwind
 # tailwindcopy
+# tailwindcopy
